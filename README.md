@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there! I'm Edd Lozano.
 
-<!--
-**edd-developer-one/edd-developer-one** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Skills
+- Javascript
+- Ionic
+- Angular
+- C# Net Core
+- SDK SAP Business One
+- Laravel
+- NodeJS
+- Python (Flask, Django)
 
-Here are some ideas to get you started:
+[![twitter](Twitter)]([https://twitter.com/](https://twitter.com/eduardolq19))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
