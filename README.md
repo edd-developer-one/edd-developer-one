@@ -1,6 +1,8 @@
-### Hi there! I'm Edd Lozano.
+## CODE WITH EDD
 
-### 🛠 Skills
+#### Hi there! I'm Edd Lozano, creator of (codewithedd.com)(https://codewithedd.com).
+
+### Skills
 - Javascript
 - Ionic
 - Angular
@@ -10,5 +12,6 @@
 - NodeJS
 - Python (Flask, Django)
 
-[![twitter](Twitter)]([https://twitter.com/](https://twitter.com/eduardolq19))
+### Social
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/eduardolq19)
 
